@@ -6,6 +6,7 @@
 
 # Problems
 ## Week 1
+
 Best Time To But and Sell Stock II
 Counting Elements
 Group Anagrams
@@ -15,6 +16,7 @@ Move Zeroes
 Single Number
 
 ## Week 2
+
 Back Space String Compare
 Contiguous Array
 Diameter of Binary Tree
@@ -24,4 +26,5 @@ Min Stack
 Perform String Shifts
 
 ## Week 3
+
 Product of Array Except Self
