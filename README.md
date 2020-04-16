@@ -8,22 +8,35 @@
 ## Week 1
 
 Best Time To But and Sell Stock II
+
 Counting Elements
+
 Group Anagrams
+
 Happy Numbers
+
 Maximum Sub Array
+
 Move Zeroes
+
 Single Number
 
 ## Week 2
 
 Back Space String Compare
+
 Contiguous Array
+
 Diameter of Binary Tree
+
 Last Stone Weight
+
 Middle of Linked List
+
 Min Stack
+
 Perform String Shifts
+
 
 ## Week 3
 
